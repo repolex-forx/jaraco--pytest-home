@@ -3,6 +3,11 @@
   "repo": "pytest-home",
   "versions": [
     {
+      "commit": "020ecd5d9be59d062af9e91382f3b16225116555",
+      "tag": "v0.6.0",
+      "parsed_at": "2026-11-22T09:03:42.143004+00:00"
+    },
+    {
       "commit": "d9d598faec10d525a83dd6a6b6970f9a1855b0ad",
       "tag": "",
       "parsed_at": "2026-10-20T10:21:34.060773+00:00"
