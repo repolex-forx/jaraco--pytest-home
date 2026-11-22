@@ -1,0 +1,7 @@
+[2026-11-22T08:58:13Z] === AST ITERATION 1 START | repo=jaraco/pytest-home sha=020ecd5d ===
+[2026-11-22T08:58:13Z] [iter=1] PHASE START: ast repo=jaraco/pytest-home sha=020ecd5d
+[2026-11-22T08:58:13Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T08:58:13Z] [iter=1] AST chunks built count=1 triples=2572
+[2026-11-22T08:58:13Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/020ecd5d9be59d062af9e91382f3b16225116555/.complete
+[2026-11-22T08:58:13Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-11-22T08:58:13Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
